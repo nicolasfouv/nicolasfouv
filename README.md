@@ -1,6 +1,6 @@
 ## Projetos
 <ul>
-<li>🐾 <strong><a href='https://github.com/nicolasfouv/sistema-de-registro-de-fauna'>sistema-rai</a></strong> - Um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas</li>
+<li>🐾 <strong><a href='https://github.com/nicolasfouv/sistema-de-registro-de-fauna'>srf</a></strong> - Um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas</li>
 <li>🔬 <strong><a href='https://github.com/nicolasfouv/nelder-mead-for-signal-recovery'>reconstrução-de-sinal-nm</a></strong> - Avaliação da eficiência do Método de Nelder-Mead na recuperação de energia do calorímetro TileCal do ATLAS Experiment</li>
 </ul>
 <!--
