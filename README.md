@@ -2,7 +2,7 @@
 <ul>
 <li>🐾 <strong><a href='https://github.com/nicolasfouv/sistema-resgistro-analise-integrada'>sirai</a></strong> - SiRAI é um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas</li>
 <li>🔬 <strong><a href='https://github.com/nicolasfouv/nelder-mead-for-signal-recovery'>reconstrução-de-sinal</a></strong> - Avaliação da eficiência do Método de Nelder-Mead na recuperação de energia do calorímetro TileCal do ATLAS Experiment</li>
-<li>📊 <strong><a href="https://github.com/nicolasfouv/analise-das-vendas-pizzaria">analise-de-vendas</a></strong> - Projeto pessoal abordando a análise e visualização de dados de vendas de uma pizzaria com dashboards</li>
+<li>📊 <strong><a href="https://github.com/nicolasfouv/analise-das-vendas-pizzaria">analise-de-vendas</a></strong> - Projeto pessoal abordando a análise e visualização de dados de vendas de uma pizzaria utilizando dashboards</li>
 </ul>
 <!--
 **nicolasfouv/nicolasfouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
