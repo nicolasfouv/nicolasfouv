@@ -5,7 +5,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,prisma,express,html,css,tailwind" />
   </a>
 </p>
-<br/>
 
 ### 📊 Dados e Ferramental
 <p align="left">
@@ -13,7 +12,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postman,git,github" />
   </a>
 </p>
-<br/>
 
 ### 🧠 Outros
 <p align="left">
@@ -21,7 +19,6 @@
     <img src="https://skillicons.dev/icons?i=py,tensorflow" />
   </a>
 </p>
-<br/>
 
 ## Projetos
 <ul>
