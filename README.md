@@ -1,3 +1,28 @@
+## Tecnologias
+### 🌐 Web
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,prisma,express,html,css,tailwind" />
+  </a>
+</p>
+<br/>
+
+### 📊 Dados e Ferramental
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postman,git,github" />
+  </a>
+</p>
+<br/>
+
+### 🧠 Outros
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,tensorflow" />
+  </a>
+</p>
+<br/>
+
 ## Projetos
 <ul>
 <li>🐾 <strong><a href='https://github.com/nicolasfouv/sistema-resgistro-analise-integrada'>sirai</a></strong> - SiRAI é um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas</li>
