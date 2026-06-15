@@ -1,26 +1,33 @@
-## Tecnologias
-### 🌐 Web
+<h3 align='center'>Tecnologias</h3>
+<h4>🌐 Front-End</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,prisma,express,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
   </a>
 </p>
 
-### 📊 Dados e Ferramental
+<h4>🗃️ Banco de Dados e Back-End</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postman,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,js,ts,prisma,express, " />
   </a>
 </p>
 
-### 🧠 Outros
+<h4>⚙️ Ferramental</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github" />
+  </a>
+</p>
+
+<h4>🧠 Outros</h4>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,tensorflow" />
   </a>
 </p>
 
-## Projetos
+<h3 align='center'>Projetos</h3>
 <ul>
 <li>🐾 <strong><a href='https://github.com/nicolasfouv/sistema-resgistro-analise-integrada'>sirai</a></strong> - SiRAI é um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas</li>
 <li>🔬 <strong><a href='https://github.com/nicolasfouv/nelder-mead-for-signal-recovery'>reconstrução-de-sinal</a></strong> - Avaliação da eficiência do Método de Nelder-Mead na recuperação de energia do calorímetro TileCal do ATLAS Experiment</li>
