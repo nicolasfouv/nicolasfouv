@@ -9,7 +9,7 @@
 <h4>🗃️ Banco de Dados e Back-End</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,js,ts,prisma,express, " />
+    <img src="https://skillicons.dev/icons?i=mysql,nodejs,prisma,express, " />
   </a>
 </p>
 
