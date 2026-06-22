@@ -29,9 +29,20 @@
 
 <h3 align='center'>Projetos</h3>
 <ul>
-<li>🐾 <strong><a href='https://github.com/nicolasfouv/sistema-resgistro-analise-integrada'>sirai</a></strong> - SiRAI é um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas</li>
-<li>🔬 <strong><a href='https://github.com/nicolasfouv/nelder-mead-for-signal-recovery'>reconstrução-de-sinal</a></strong> - Avaliação da eficiência do Método de Nelder-Mead na recuperação de energia do calorímetro TileCal do ATLAS Experiment</li>
-<li>📊 <strong><a href="https://github.com/nicolasfouv/analise-das-vendas-pizzaria">analise-de-vendas</a></strong> - Projeto pessoal abordando a análise e visualização de dados de vendas de uma pizzaria utilizando dashboards</li>
+<li>
+  <strong><a href='https://github.com/nicolasfouv/sistema-resgistro-analise-integrada'>SiRAI</a>:</strong><br/> 
+  <i>O projeto SiRAI é um ambiente estruturado e flexível, projetado para centralizar dados e viabilizar análises aprofundadas desenvolvido para o apoio a pesquisadores da área.</i>
+</li>
+<br/>
+<li>
+  <strong><a href='https://github.com/nicolasfouv/nelder-mead-for-signal-recovery'>Reconstrução de Sinal com Métodos de Otimização</a>:</strong><br/>
+  <i>Avaliação da eficiência do Método de Nelder-Mead na recuperação de energia do calorímetro TileCal do ATLAS Experiment.</i>
+</li>
+<br/>
+<li>
+  <strong><a href="https://github.com/nicolasfouv/analise-das-vendas-pizzaria">Análise de Vendas</a>:</strong></br>
+  <i>Projeto pessoal abordando a análise e visualização de dados de vendas de uma pizzaria utilizando dashboards.</i>
+</li>
 </ul>
 <!--
 **nicolasfouv/nicolasfouv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
