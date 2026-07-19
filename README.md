@@ -1,15 +1,8 @@
 <h3 align='center'>Tecnologias</h3>
-<h4>🌐 Front-End</h4>
+<h4>🌐 Web</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
-  </a>
-</p>
-
-<h4>🗃️ Banco de Dados e Back-End</h4>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,nodejs,prisma,express, " />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,html,css,tailwind,mysql,prisma,express" />
   </a>
 </p>
 
